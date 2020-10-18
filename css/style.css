@@ -194,9 +194,9 @@ h6 {
     background: #fff;
 }
 
-/* .main-wrapper .container {
+.main-wrapper .container {
      max-width: var(--content-max-width); 
-} */
+}
 .page-title {
     position:sticky;
     top:0;
@@ -369,6 +369,11 @@ h6 {
 
 .content .blockquote p {
     font-size: 1.5rem
+}
+
+.read-more-link {
+    color: #434242;
+    text-decoration: underline;
 }
 
 @media (prefers-reduced-motion: reduce) {
